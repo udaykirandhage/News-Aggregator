@@ -1,4 +1,3 @@
-Certainly! Below is the content formatted as a `README.md` file for your Personalized News Aggregator API project. You can copy and paste this text into a file named `README.md` in your project directory.
 
 ```markdown
 # 📰 Personalized News Aggregator API
@@ -91,18 +90,4 @@ JWT_SECRET=your_jwt_secret
 NEWS_API_KEY=your_newsapi_key
 ```
 
-## 📬 Testing with Postman
 
-- Use the provided Postman collection in the `test/` directory
-- Authenticate to receive a JWT
-- Use the token as `Authorization: Bearer <token>` in protected routes
-
-## 🤖 Future Improvements
-
-- Add caching with Redis
-- Refresh tokens for improved security
-- Rate-limiting on API requests
-- Pagination on news results
-```
-
-Feel free to replace `your-username` in the clone URL with your actual GitHub username and customize any other sections as needed. Let me know if you need any further assistance!
